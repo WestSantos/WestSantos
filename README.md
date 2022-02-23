@@ -1,5 +1,7 @@
+
 ### Olá! Eu sou o Weslley Teodoro dos Santos 🖐
 Sejá Bem Vindo!!
+
 
 <div align="center">
   <a href="https://github.com/WestSantos">
@@ -7,7 +9,6 @@ Sejá Bem Vindo!!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WestSantos&layout=compact&langs_count=7&theme=onedark">
   </a>
 </div>
-
 
   
 <div style="display: inline_block"><br>
@@ -19,12 +20,13 @@ Sejá Bem Vindo!!
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Photo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Gif_Programing" height="120" style="border-radius:50px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </div>
   
   ###
   
 <div>
-  <a href="https://wa.me/message/G4FXOZFUYTXPE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp"></a> <a href="https://web.facebook.com/weslley.teodoro.359" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://instagram.com/weslley.santos4545" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a> <a href="https://www.linkedin.com/in/weslley-teodoro-7255b7174" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a> <a href = "mailto:weslley.santos4545@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail" target="_blank"></a> 
-  
+  <a href="https://wa.me/message/G4FXOZFUYTXPE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp"></a> <a href="https://web.facebook.com/weslley.teodoro.359" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://instagram.com/weslley.santos4545" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a> <a href="https://www.linkedin.com/in/weslley-teodoro-7255b7174" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a> <a href = "mailto:weslley.santos4545@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail" target="_blank"></a>
+
  
 </div>
