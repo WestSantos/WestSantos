@@ -31,7 +31,7 @@ Sejá Bem Vindo!!
  
 </div>
 
-<p align="center"> Total de Visitas no perfil :detective: <br>
-<p align="center"> 
+<p align="left"> Total de Visitas no perfil :detective: <br>
+<p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/WestSantos/count.svg" />
 </p>
